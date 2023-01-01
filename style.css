@@ -1,0 +1,17 @@
+body {background-color:#ffffff; margin:0px;}
+body, table, td, input, select, h1, h2, h3, h4, h5, h6 {font-family:Arial; font-size:11px; color:#444444;}
+body, form {margin:0px; padding:0px;}
+
+a {color:#666666;text-decoration:none;}
+a:hover {text-decoration:underline;}
+
+.bold {font-weight:bold;}
+.italic {font-style:italic;}
+.sectionLnk {color:#ffffff;}
+.sectionLnk:hover {text-decoration:underline;}
+.footerLnk {color:#ffffff;}
+.footerLnk:hover {text-decoration:underline;}
+.headerLnk {color:#666666;}
+.headerLnk:hover {text-decoration:underline;}
+
+
